@@ -101,7 +101,7 @@ Deploy via Streamlit Web UI
 
 ---
 
-## 🔬 Technical Details
+##  Technical Details
 
 ### 1. Class Balancing Strategy
 
@@ -218,7 +218,7 @@ param_dist = {
 
 ---
 
-## 📈 Expected Performance
+##  Expected Performance
 
 With proper balancing and model selection:
 
